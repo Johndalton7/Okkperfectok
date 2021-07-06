@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'JOIN CHANNEL', url="https://t.me/MFMOVIES3"
+                                    '💢JOIN CHANNEL💢', url="https://t.me/MFMOVIES3"
                                 )
                         ]
                     ]
